@@ -1,5 +1,4 @@
 #tlight2.py
-#Craig Maitner
 
 from graphics import*
 
