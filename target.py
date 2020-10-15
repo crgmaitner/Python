@@ -1,5 +1,4 @@
 #target.py
-#Craig Maitner
 
 import graphics
 from graphics import *
