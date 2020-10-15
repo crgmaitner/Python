@@ -1,5 +1,4 @@
 #ticket.py
-#Craig Maitner
 
 def main():
     print("This program will calculate a speeding ticket based on how fast a driver was going.")
