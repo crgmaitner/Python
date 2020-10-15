@@ -1,7 +1,7 @@
 #sphere.py
-#Craig Maitner
 
 import math
+
 #Defines a new user created class called Sphere.
 class Sphere:
     
