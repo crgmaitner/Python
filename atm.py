@@ -1,5 +1,6 @@
 #atm.py
-#Craig Maitner
+#This program simulates interacting with an atm machine.
+#It DOES NOT reflect or access an actual bank account or atm machine in any way!
 #username: crgma    pin:2468
 
 # This list will hold the account info.
