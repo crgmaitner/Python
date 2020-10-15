@@ -1,5 +1,4 @@
 #myclass.py
-#Craig Maitner
 
 # gpa.py
 # Program to find student with highest GPA
