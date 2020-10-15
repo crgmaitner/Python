@@ -1,5 +1,4 @@
 #song.py
-#Craig Maitner
 #Demonstrates user created functions by printing lyrics to a song.
 
 print("This program demonstrates the use of functions by outputing the lyrics to Old MacDonald.")
