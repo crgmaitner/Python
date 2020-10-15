@@ -1,5 +1,4 @@
 #degrees.py
-#Craig Maitner
     
 print("This program will accept a sequence of values for temperature")
 print("and output the running total of cooling and heating degree days.")
