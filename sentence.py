@@ -1,5 +1,4 @@
 #sentence.py
-#Craig Maitner
 
 print("This program will accept a sentence of any length and return some general information about it.")
 
