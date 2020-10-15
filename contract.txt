@@ -1,0 +1,10 @@
+This text file is a intended to help demonstrate the censor.py program.
+
+Hello Agent Smith. We have a new assignment for you. Your target is
+Dr EvilCode. He plans to elminate all of the worlds coding languages.
+This cannot happen. We have determined that he will be attending the
+annual Mount CodesALot summit and that he will be staying in room 237 of
+the JavaPython Hotel. His room is protected by a six digit access pin.
+the code to get in is five two nine seven three four. Good luck.
+
+This text file is a intended to help demonstrate the censor.py program. 

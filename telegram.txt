@@ -1,0 +1,10 @@
+This text file is a intended to help demonstrate the censor.py program.
+
+Hello Agent *****. We have a new ********** for you. Your ****** is
+** ********. He plans to elminate all of the ****** ****** languages.
+This cannot happen. We have determined that ** will be attending the
+annual ***** ********* summit and that ** will be staying in **** *** of
+the ********** Hotel. His **** is protected by a *** ***** ****** ***.
+the code to get in is **** *** **** ***** ***** ****. Good luck.
+
+This text file is a intended to help demonstrate the censor.py program.

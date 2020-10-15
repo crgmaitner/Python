@@ -1,0 +1,5 @@
+ID: crgma
+Pin: 2468
+
+Checking: 5000
+Savings: 15000
