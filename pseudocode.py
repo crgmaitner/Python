@@ -1,4 +1,3 @@
-﻿# CMPT 120 Intro to Programming
 # Chapter 11 lab: Lists and Error Handling
 # Author: Your Name Here
 # Created: YYYY-MM-DD
