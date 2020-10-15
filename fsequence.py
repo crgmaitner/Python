@@ -1,5 +1,5 @@
 #fsequence.py
-#Craig Maitner
+
 import math
 
 def main():
