@@ -1,5 +1,4 @@
 #operations.py
-#Craig Maitner
 
 nums = [0,1,1,5,4,5,9,7,8,9]
 
