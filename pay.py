@@ -1,5 +1,4 @@
 #pay.py
-#Craig Maitner
 
 def main():
     print("This program will calculate the total wages based on hourly rate")
