@@ -1,5 +1,4 @@
 #sieve.py
-#Craig Maitner
 
 #This function demonstrates the Sieve of Eratosthenes algorithm to find all primes up to a given limit value
 def prime(n):
