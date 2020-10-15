@@ -1,5 +1,4 @@
 #invest.py
-#Craig Maitner
 
 import math
 
