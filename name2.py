@@ -1,5 +1,4 @@
 #name2.py
-#Craig Maitner
 
 def main():
     print("This program calculates the numeric values of names taken from a file")
