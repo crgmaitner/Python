@@ -1,5 +1,4 @@
 #grade.py
-#Craig Maitner
 
 print("This program allows the user to enter an exam score and returns the corresponding letter grade.")
 
