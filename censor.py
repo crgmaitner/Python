@@ -2,7 +2,7 @@
 #This program demonstrates basic file cenorship properties.
 #The provided text file for censorship is entirely fake and is written only for the purposes of this program.
 #Any similarities to real world individuals or events are entirely coincidental.
-#Text file used: contract.txt
+#Text files used: contract.txt, words.txt
 
 #Defines a new function called "secret"
 def secret(word):
