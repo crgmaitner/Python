@@ -1,6 +1,5 @@
 #chaos.py
 #This program displays chaotic behavior.
-#edited by Craig Maitner
 
 def main():
 	print("This program allows you to illustrate chaotic behavior.")
