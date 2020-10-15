@@ -1,5 +1,4 @@
 #name.py
-#Craig Maitner
 
 def main():
     print("This program calculates the numeric value of a name that is provided by the user.")
