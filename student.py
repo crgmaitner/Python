@@ -1,5 +1,4 @@
 #student.py
-#Craig Maitner
 
 def year(x):
     if x < 0:
