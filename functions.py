@@ -1,5 +1,4 @@
 #functions.py
-#Craig Maitner
 #Demonstrates the use of user created functions.
 
 #Creates a new function called "sumN".
